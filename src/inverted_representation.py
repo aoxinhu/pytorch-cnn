@@ -1,7 +1,7 @@
 """
 Created on Wed Jan 17 08:05:11 2018
 
-@author: Utku Ozbulak - github.com/utkuozbulak
+@author: aoxinhu
 """
 import torch
 from torch.autograd import Variable

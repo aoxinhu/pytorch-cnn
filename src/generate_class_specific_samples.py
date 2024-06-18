@@ -1,7 +1,7 @@
 """
 Created on Thu Oct 26 14:19:44 2017
 
-@author: Utku Ozbulak - github.com/utkuozbulak
+@author: aoxinhu
 """
 import os
 import numpy as np
